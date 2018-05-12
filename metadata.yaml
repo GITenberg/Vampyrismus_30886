@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34874'
     url: http://www.gutenberg.org/2009/agents/34874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30886#Vampyrismus
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-01-07'
 gutenberg_type: Text
